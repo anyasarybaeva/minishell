@@ -1,0 +1,64 @@
+
+a.out
+a.out
+a.out
+echo $?
+exit 123
+exit -1
+echo $?
+exit -250
+exit -250
+exit -250
+env
+aout
+env
+a.out
+env
+a.out
+d
+exit
+env
+a.out
+env
+d
+exit
+a.out
+a.out
+ls
+ls -la
+env
+a.out
+cat -e
+agsdg
+asdgasdg
+asdg
+asdg
+ls
+a.out
+<<<<<<< HEAD
+ls
+ls
+ls -la
+cat -e
+cat -e
+=======
+<<<<<<< HEAD
+a.out
+âˆexit
+exit
+=======
+ls
+>>>>>>> 9e91b743931fbde391107302a3df0c0c347b96fb
+>>>>>>> 8b999526ace520c9f85b24e983cb8da6c086f998
+
+env
+minishell
+env
+env
+exit
+ls
+ls -la
+ls -la
+exit -1010
+exit 1111111111111111111111
+env

@@ -1,0 +1,8 @@
+
+ls -la
+ls
+lsenv
+env
+echo SHLVL
+echo $SHLVL
+a.out
